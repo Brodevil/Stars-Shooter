@@ -8,7 +8,7 @@
 - Also Tring my skills in PyGame 😅
 
 # Run in your Machine :
-1. First a Fall you should download this Project by installing is Zip file or by  `git clone `
+1. First a Fall you should download this Project by installing is Zip file or by running the command : `git clone git@github.com:Brodevil/Stars-Shooter.git`
 2. Open the Terminal in Game's Directory
 3. Then you should run: `pip install -r Requirements.txt` in your Terminal of this Game Directory.
 4. Last step run : `python main.py` in your Terminal
