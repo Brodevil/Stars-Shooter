@@ -12,7 +12,7 @@
 2. Open the Terminal in Game's Directory
 3. Then you should run: `pip install -r Requirements.txt` in your Terminal of this Game Directory.
 4. Last step run : `python main.py` in your Terminal
-
+5. Start Playing it 😉
 # Thank you!
 - If you matter my Efforts Please star this project ✨
 
